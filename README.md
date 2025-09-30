@@ -5,5 +5,5 @@ Arduino GIGA R1 + Python control app for high-torque pan-tilt (“H1”) motor m
 
 ## License
 This project is proprietary and closed-source.  
-All rights reserved © 2025 Samuel Tadele.  
+All rights reserved © 2025 Samuael Tadele.  
 No part of this codebase may be copied, modified, or distributed without permission.
