@@ -42,7 +42,7 @@ It is responsible for **precise motor stepping**, **UI feedback**, **serial comm
 
 ##  Quick Start (Arduino)
 1. Open `R1GIGA.ino` in Arduino IDE.  
-2. Select **Arduino GIGA R1 (M7)** as the board.  
+2. Select **Arduino GIGA R1** as the board.  
 3. Compile and flash to your device.  
 4. Connect stepper drivers and power supply (match pinouts in firmware).  
 
